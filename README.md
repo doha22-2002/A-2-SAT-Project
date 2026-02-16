@@ -13,3 +13,7 @@ Strongly Connected Components (SCC) algorithm.
 ## Usage
 ```bash
 python main6.py example.txt
+ 
+**Members:**  
+- <Doha DOUNIA>  
+- <Chaymae ED-DYB>
